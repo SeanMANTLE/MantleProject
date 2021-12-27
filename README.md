@@ -8,6 +8,10 @@ All code used is either been used off of online sources & refrenced or made full
 # Discord Whitelist
 Working discord whitelisting script (Mantle Network Development Candidate) :).
 
+## Dependecies
+
+discord_perms [here](https://github.com/sadboilogan/discord_perms)
+
 ## Download
 Download from the link provided [here](https://github.com/SeanMANTLE/MantleProject).
 
