@@ -10,10 +10,10 @@ Working discord whitelisting script (Mantle Network Development Candidate) :).
 
 ## Dependecies
 
-discord_perms [here](https://github.com/sadboilogan/discord_perms)
+discord_perms [Click Here](https://github.com/sadboilogan/discord_perms)
 
 ## Download
-Download from the link provided [here](https://github.com/SeanMANTLE/MantleProject).
+Download from the link provided [Click Here](https://github.com/SeanMANTLE/MantleProject).
 
 ## Implementing the Script
 Install like any other FiveM resource.
