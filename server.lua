@@ -1,8 +1,14 @@
 notWhitelistedMessage = "You just need to join the discord to connect to the Mantle Development Project" 
 
+-- Reference taken from discord vehicle whitelist --
+
 whitelistRoles = { 
     "Your Role ID",
 }
+
+-- End --
+
+-- (Do not touch below unless you know what you are doing) --
 
 AddEventHandler("playerConnecting", function(name, setCallback, deferrals)
     local src = source
