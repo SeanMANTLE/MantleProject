@@ -5,7 +5,7 @@ All code used is either been used off of online sources & refrenced or made full
 
 ---------------------------------------------------------------------------------------------
 
-# Discord Whitelist
+## Discord Whitelist
 Working discord whitelisting script (Mantle Network Development Candidate) :).
 
 ## Dependecies
@@ -17,3 +17,7 @@ Download from the link provided. | [Click Here](https://github.com/SeanMANTLE/Ma
 
 ## Implementing the Script
 Install like any other FiveM resource.
+
+## What it does
+
+The showcase on what it does is linked here | [Click Here](https://youtu.be/8nX08HpYk_g)
